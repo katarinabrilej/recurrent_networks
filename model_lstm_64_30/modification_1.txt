@@ -1,0 +1,45 @@
+Epoch 30/30
+64428/64428 [==============================] - 19s 302us/step - loss: 1.3774
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "riods of restraint and fasting, during
+w"
+riods of restraint and fasting, during
+what is a conficess and things is a masters of the preserves and desire of the strange and a consequently and a consequently at all the strange and itself consequently and for the preserves and a consequently and in the strange of the most an a chary and preserves of the strange of the person of the strivet of the striveted that the strange of the person of have a difficultion that the self-concept
+----- diversity: 0.5
+----- Generating with seed: "riods of restraint and fasting, during
+w"
+riods of restraint and fasting, during
+with all his masters of the scholar in life. and what is the lacterable all action, and more strange in their love life it is
+an absolutely an all the sough personness, a chon-believe itself and in all philosophers to the precisely and strivety and strivetion, and something ofthe philosophers of have stravnt at a game than that the precise is stands the surmentuser to seefore mankind self--itself
+----- diversity: 1.0
+----- Generating with seed: "riods of restraint and fasting, during
+w"
+riods of restraint and fasting, during
+with the striveti; willing-inession--crie: bete", not they rominal most free--alout what a nage forcresto of spoyly memial imitionfly to theirs perior must, a "maits, world
+which distried to lindiate hill before of relies, regard apsor
+us ar expread, it
+with its dovere what is what scholar evere is perhaps as suntabting is heaveountarened remons own it unceran su gas lifelyt mimoratifuse perhaps
+th
+----- diversity: 1.2
+----- Generating with seed: "riods of restraint and fasting, during
+w"
+riods of restraint and fasting, during
+who, to lintured a veratt, it could to gew all shalms. butt one
+in properre (agally thim. "syrities.--platosilly thire nothing to whoge a relity ane helvist, evendin psy: on this,-my and, latechereving: what does vildtely,
+is morali stuvy, obiespligure,
+things has beenamish idealishlented. with that dislindt ut--a pemsoritation, these
+prrey! is
+much life or prougs of foum! it nave a cancrew of coll
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+lstm_1 (LSTM)                (None, 64)                29952
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                3380
+=================================================================
+Total params: 33,332
+Trainable params: 33,332
+Non-trainable params: 0

@@ -1,0 +1,49 @@
+Epoch 30/30
+64428/64428 [==============================] - 42s 656us/step - loss: 1.4325
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "ho suffer from life as from a
+disease, a"
+ho suffer from life as from a
+disease, and the sentic men, and the sentimity of the more a more a sentic more of the will to the more a morality, and when the sentic more and indepedtion of the sentic more its indeans, it is the more a more a more a more the cannoness of the more a more inderstand the religious a sentic more its the sentically and more and the more inderstand the sentic more and independent and independent the sentic mo
+----- diversity: 0.5
+----- Generating with seed: "ho suffer from life as from a
+disease, a"
+ho suffer from life as from a
+disease, and is sentiments that with the everything is itself, deseruces to the straint of
+mele to be the more inderstends and morality of the inderstander, the sentility, and the indiving even the everything the more remain, and the reselvesof the more morality, a having seef the decreate instinctive belief in the more a morally whil desien the sentient, it everything and so really, his destruence may be
+----- diversity: 1.0
+----- Generating with seed: "ho suffer from life as from a
+disease, a"
+ho suffer from life as from a
+disease, are, is sto, with are the
+lon a the fathers gentiong and things
+of himeron, in earth appres powres! a freed this truth.
+
+
+1s7. who has been sometime more eary, i sex-cenventions for our only be the mait the in we resen to the uncurtain philosophers we oes ree gure cureances of all thin sgus strainc men, desire exprese accorsonness of the semis itsile on evids a with
+"caarity," he with matter heart,
+----- diversity: 1.2
+----- Generating with seed: "ho suffer from life as from a
+disease, a"
+ho suffer from life as from a
+disease, aw
+maning, and "nocratic one" live of serves that god breat
+of its religious grout belocratour, it gry and, or and for ghrse, it youring much can scopids form of
+evityrounks, unly jusr, chosdienves that it, flycultor with attick, but oel, but whe himy.
+1v4. lus
+hus thigner resen a mickli, rades. es soocly you
+explaner, thabsit me. onothemtion. a
+5'tien-s the srumpletather, it were burne-spent wit
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+gru_1 (GRU)                  (None, 128)               69504
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                6708
+=================================================================
+Total params: 76,212
+Trainable params: 76,212
+Non-trainable params: 0

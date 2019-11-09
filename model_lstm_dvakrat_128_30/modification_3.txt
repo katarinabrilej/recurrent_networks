@@ -1,0 +1,130 @@
+Epoch 22/30
+64428/64428 [==============================] - 100s 2ms/step - loss: 1.0741
+
+----- Generating text after Epoch: 21
+----- diversity: 0.2
+----- Generating with seed: "nted, when europe, rid of this nightmare"
+nted, when europe, rid of this nightmarely think, in the serior that the respective philosophers of the senses and suby-play is posser as the subutation of the same kind of the same kundore of the subutive power, to the strain that it is it not been the serior to the same kundore of the same kind of the same kundore of the present, and which has also the actional promptions of the same kundore of the present, and which athelf the senses
+----- diversity: 0.5
+----- Generating with seed: "nted, when europe, rid of this nightmare"
+nted, when europe, rid of this nightmarely in the prouse of the deligious present of successe," and when the senses, who have a belief in the streege it cannot destrustgory and delived--"seave and accusion, and "subjertion of a conwitist? it is manifor his out of the conscience, and this shreaking of vain--it was been not beant perhaps, the philosopherousness, is the term of the most destint be that the respective, and sufferic as it wa
+----- diversity: 1.0
+----- Generating with seed: "nted, when europe, rid of this nightmare"
+nted, when europe, rid of this nightmarely invonganies ef
+oured to "regarded itself"
+aptists (as a primitionar and suttable to him: he wishathers of a conwite.
+therether dow sympathy.
+they world
+of the
+"thpodly, as trive" of our been youth futhdervant endissentially beyond which make him ardires,
+and world being that
+which give the conscience, on the
+belief in the noblefor man?"
+yic.. that we self-courous in eor
+
+"silently from malifile
+----- diversity: 1.2
+----- Generating with seed: "nted, when europe, rid of this nightmare"
+nted, when europe, rid of this nightmarel, with suspiciow of forhs, this garce that should being ascousity, that every phyounce of subbe of suspicior, epid aclial (it
+expestion
+(and self-dpintriation--and waid" for have and ochiance, thatnifficus world.--man from which
+con ration. implye, and mivature for the spedience the
+foundarily adting some
+one innou -undement soget im this mospession, and in the us, is
+that specially the all think
+Epoch 23/30
+64428/64428 [==============================] - 100s 2ms/step - loss: 1.0944
+
+----- Generating text after Epoch: 22
+----- diversity: 0.2
+----- Generating with seed: "losophers? very
+probably, for all philos"
+losophers? very
+probably, for all philosophers of the soul, and perhaps as the subuelistist of the soul-uswill to the soul-ry the soul-ry it is a man appeare the subuelest of morality itself appearing of the soul, and perhaps as the subuelistist, and the soul-ry with such a strooghing as the subuelish of the subuelishof the subuelish of the sensation of the subuelish and subjecting, and the soul of the soul, and perhaps as the subuely
+----- diversity: 0.5
+----- Generating with seed: "losophers? very
+probably, for all philos"
+losophers? very
+probably, for all philosophers and where
+god in the serious about be name in sometimest at what is the belief in the soul, and patifen to possession of the considerable of populace and subjecting of morality, in superisties of the main that is in the selificial, the religious obders of ideas and tyse of the
+self-probad hister of the end the same kunpeol ever belong away adven seeks a more that which as the
+conscience to
+----- diversity: 1.0
+----- Generating with seed: "losophers? very
+probably, for all philos"
+losophers? very
+probably, for all philosopher that you caselouse, the nature, and for the dread,
+us
+themselves like oriet or us-life. that the whole a laughtly, stupidity and ususone-exuciduty bad
+surfociscy insonced to obvistinement; and
+from lurprate as the emotimentaling.
+
+to belitted and spiritively, for a conceal snneri is most adeective produtial,
+sense--and longer, sense in
+whach has you desire of thought--they can as it was abou
+----- diversity: 1.2
+----- Generating with seed: "losophers? very
+probably, for all philos"
+losophers? very
+probably, for all philosopissi6n, disaw of the "floming a practis from a religious otter effect of it be; all the sneciate seeivify phasing rultions,
+beyondsing at-interfective, alar!
+
+ .
+
+.
+sver des
+to morals, that do
+not namely," have other farsaor the streeges, but tuan granyfulling claniefting of theirs, but why did nothing even his
+one determinence."--oe the dase" obcourting you remeiding that inlology
+d-proude, and
+
+
+
+
+
+Epoch 30/30
+64428/64428 [==============================] - 100s 2ms/step - loss: 2.8044
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: " et artibus. lessing is an exception, ow"
+ et artibus. lessing is an exception, ow thesingenenisingenenen thes theseneneningetengengeneneneneningenenenenenenentengengengeng thesengenenenenenenenenenenenenenenentheningenges nningenenenenenenenenenithes andenesenenenenenenenereningeneneneneneningenenenenengenenengengengengengengeneningesenenengengengengengengengengenentesentengengengengengenenenesengeneneneneneneneneneliseneneneningenenenenenenges angenenenerineningenen thenenene
+----- diversity: 0.5
+----- Generating with seed: " et artibus. lessing is an exception, ow"
+ et artibus. lessing is an exception, owitesinenenerentithawineletinginineserendthen nfeneenenaw seliningonireshesisisentingicengithentinveneneisaesonrei
+olinesinelithensinen anwenenkestiteneneren angenecenleniineise nfethereingaenenenenenetirenginnetlon nngpthesenengenes thes thesis cevinenthewingallpitinsenninen ansentesilisngestengsand andencenan thenshgandiinnener secenditinlacengoshithelnenged belllancanene,entenis angedenedpof net
+----- diversity: 1.0
+----- Generating with seed: " et artibus. lessing is an exception, ow"
+ et artibus. lessing is an exception, owked
+alpbofed theskad ancaleasivivogeiswcisovereuluovintacujs in comad nvinondenmetonitisangpafuceleenincispibasptn,rew,en,
+bllloqovdphenepaowhipirsenngs
+nbsznstaghiwflached,iagiinldcenn steewogerhig. owevsingeathonnentelleiudhacingorskinc,eritintieikde"iipthenltewants teagenimetoruinpefed wenet searhhhisiaproeingesatllphee an
+ingepew rhurpy
+reitaeasophive intit lentsinonibpat yitariskevind whi
+lpg
+----- diversity: 1.2
+----- Generating with seed: " et artibus. lessing is an exception, ow"
+ et artibus. lessing is an exception, own layocafeawdes,entanenmrtle,iaf aalv
+anireradpng et
+it acnnndcip.elptaupegl doeerdem,"tlerilwach ptocth thonrofereqhonx
+nen-cnncunivet cirevenfer avenangdcv thetepn
+laianvenesinpsig
+angjanh sifa
+tipcwmgsteel vellfholpagserselpawmoiwehaamfa re ati9acis, qagnlvingfadtiroventloriavenlcaslonisiofisomi wevegllinmeve. ce"t feg sosmaner,e
+reepawps thespdsuuadtsftofhiwhacaenltham aldpnfhare alopenfifraon
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+lstm_1 (LSTM)                (None, 40, 128)           92672
+_________________________________________________________________
+lstm_2 (LSTM)                (None, 128)               131584
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                6708
+=================================================================
+Total params: 230,964
+Trainable params: 230,964
+Non-trainable params: 0
+_________________________________________________________________
+objc[13580]: Class FIFinderSyncExtensionHost is implemented in both /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/FinderKit (0x7fff8f46b3d8) and /System/Library/PrivateFrameworks/FileProvider.framework/OverrideBundles/FinderSyncCollaborationFileProviderOverride.bundle/Contents/MacOS/FinderSyncCollaborationFileProviderOverride (0x141d15f50). One of the two will be used. Which one is undefined.
+Katarinas-MacBook-Pro:DN1 - GLOBOKO UČENJE katarina$

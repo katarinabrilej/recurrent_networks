@@ -1,0 +1,51 @@
+Epoch 100/100
+64428/64428 [==============================] - 19s 289us/step - loss: 1.3101
+
+----- Generating text after Epoch: 99
+----- diversity: 0.2
+----- Generating with seed: " when any one
+speaks "badly"--and not ev"
+ when any one
+speaks "badly"--and not even the sense of the sense of the sense of the sense of the sense of the sense of the sensations of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense of the sense and seems to the sense asthe sense of the sense of the sense and of the sense of the sense of the sense of the sense of the sense of the sense of t
+----- diversity: 0.5
+----- Generating with seed: " when any one
+speaks "badly"--and not ev"
+ when any one
+speaks "badly"--and not even to say, and the sensation of his means of their complation of the coll and
+conscience and nature and such as it is their bele and have have religious of which they means for the basbe the sense as its all prevariting of the sense of the heavy as the distenste, and have are most deciasion the
+indears in the senses of all seens to the instrance, as a constraing and secronably problem theretakes,
+----- diversity: 1.0
+----- Generating with seed: " when any one
+speaks "badly"--and not ev"
+ when any one
+speaks "badly"--and not even chyplowish," a elepobience to mething which meinate, such in desirable here! have of the tree seriophateme an instincts inmading,
+moned one ma pore reasonian himself where-towre know havigness of whom in moraliaglityselfuitive
+conscion in accidinate so, it is the sempled and super-is
+demat gnom when reemeshans of the supless and oprention they
+fullifist for the possess it is soughtrestable
+the
+----- diversity: 1.2
+----- Generating with seed: " when any one
+speaks "badly"--and not ev"
+ when any one
+speaks "badly"--and not even concciopser must for by our guencoeraniseouss. thanly, her, the precting, bet in resedry who among case let morary. as a :the not.
+
+108hcccirr "wantsed. withey had? imperiece of from marta(mes'st
+ceuls
+mad, generals: of
+saveing not of sedrian gives, to vurn outs
+as letsious got respenigate
+of they the helpen most long deed himserflaws,
+many, the partialifients insighes worrdorgated to
+what in
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+lstm_1 (LSTM)                (None, 64)                29952
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                3380
+=================================================================
+Total params: 33,332
+Trainable params: 33,332
+Non-trainable params: 0

@@ -1,0 +1,98 @@
+Epoch 30/30
+64428/64428 [==============================] - 89s 1ms/step - loss: 0.7623
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "eyond the average, and the low level of "
+eyond the average, and the low level of the subject of self-sagicions, to this
+"the same of
+all protratity."
+
+171. he who sade on who into them believes he he was falsy with all those here as the self-reed of possible this was the same of religious pulling and evontence which makes to himself, the subject of the supersism
+of the same kind of positions, and even the nolly of
+a signional
+
+
+190. the secret also we are the secret of plato,
+----- diversity: 0.5
+----- Generating with seed: "eyond the average, and the low level of "
+eyond the average, and the low level of this ward, we foll--to see something in science. and a should
+one in evally means estimp; and such and exilates like the most respect of will be dound that is a prise. there is ghis as an always before we pleity of the streed and desirable this confort, the most sedwth and action with wants and subjection with which his morality of all probably means of platonical,, palled (devents,
+probably to th
+----- diversity: 1.0
+----- Generating with seed: "eyond the average, and the low level of "
+eyond the average, and the low level of desires
+the terming
+upon superiorated
+is the sensations
+considerally to this, seems of moral sentimentality, consuity south,
+and freek and list and the good are wish himself to enjoy unfience--is called aponimatity-inicsity of seeming, and commandes blundure, the
+enough worth
+superficious he past on the apposite. there is an alimations valles, and is to say to his "subject,"--in itsela, espoce. an
+----- diversity: 1.2
+----- Generating with seed: "eyond the average, and the low level of "
+eyond the average, and the low level of this fucidar of germans.
+
+13it. to recognize intellectual bad with whole
+ppopes and belong a stirfull, however, in such fargy,
+without howonus which his means athae
+non gregathous
+morals of succurition; but to him, when they se for the
+blame belong, be igament
+or
+belard characted itself beelives" is
+been the temation, they part of
+portion--this
+genplefe. compolitycression, is not superciloge
+and d
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+lstm_1 (LSTM)                (None, 256)               316416
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                13364
+=================================================================
+Total params: 329,780
+Trainable params: 329,780
+Non-trainable params: 0
+
+
+
+
+
+
+
+.
+
+
+
+ place it we. dreak!--that abonl truth
+----- diversity: 1.2
+----- Generating with seed: "ther rapidly and always more
+rapidly--th"
+ther rapidly and always more
+rapidly--thas along,
+that is neking g"lrous class on,
+still; fuittomy,t of its suivity "distrent mysym.fitions, ich states on
+kand iseuny weichit, much all thin rits suchote edifcisionauzes,, briviess of jact
+them in ben.--whom a
+there
+poopiftient incadncess a souvess
+-seek, whish. avol
+the ise-shound would
+quita1es that  ratter not that aften presuad ary
+ols,
+a nmencimaty youhds os thun hiverfi heals the
+ex
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+lstm_1 (LSTM)                (None, 256)               321536
+_________________________________________________________________
+dense_1 (Dense)              (None, 57)                14649
+=================================================================
+Total params: 336,185
+Trainable params: 336,185
+Non-trainable params: 0

@@ -1,0 +1,67 @@
+Epoch 30/30
+64428/64428 [==============================] - 91s 1ms/step - loss: 0.8763
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: " over
+obstacles, but thinks within himse"
+ over
+obstacles, but thinks within himself the doment--the
+strong of same kinds as may fast as the same kinds as defined as have does not definterally are
+actionss of the speaking self-sicciess of the
+something out of the supposition--and sub, ttin
+trates to the superitions of the religias indessior
+the something that the senses and shame mong out of this "fective
+outsel"--and still seeking strong the strength, it shen are sometis indes
+----- diversity: 0.5
+----- Generating with seed: " over
+obstacles, but thinks within himse"
+ over
+obstacles, but thinks within himself to say, lave on such reartivations and may
+belong to be suirity and subtlemments and
+fatulations--and forem the strong of mality, by means are sometifiting about
+astin the strange of reliciness, and strong, self-pilly themsely such a sciendity as a religiously and
+more to seekiously; this may be subting and
+the strange of reliciness--and like the truth. the
+greates himself, should be only as a
+----- diversity: 1.0
+----- Generating with seed: " over
+obstacles, but thinks within himse"
+ over
+obstacles, but thinks within himself it even the
+heart, beyondirance, inwands they had diffinity,
+strie--that which shoull veres to sad, brysticisual
+dangeress is an comingly,
+as he destrayists from higher time;-initie the plass from hone has far of
+sprinkund indeseriously; deveres dare and subtlememingnes.
+
+-a sjeefom of "strost," as in lighterfully,
+as it beweak--no paton, a emigtisity--any was to reply with
+his
+criction, dognil
+----- diversity: 1.2
+----- Generating with seed: " over
+obstacles, but thinks within himse"
+ over
+obstacles, but thinks within himself most mastain on
+europer or sceriously chircelling,, dif everything that sholars alliwer taste. by
+the lommanities, there arrurgs a, bowild,
+hitherto at a sciral
+masterfest and even wso knowledge go. now about his tant work senses
+main dare. no sometiff in this "science have not believe--there are prevedt trans--and
+"meabultourse
+the disrrrily
+reftains, most divided.  a more ordaln of was not aw
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+lstm_1 (LSTM)                (None, 40, 128)           92672
+_________________________________________________________________
+gru_1 (GRU)                  (None, 128)               98688
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                6708
+=================================================================
+Total params: 198,068
+Trainable params: 198,068
+Non-trainable params: 0

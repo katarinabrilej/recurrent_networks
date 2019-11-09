@@ -1,0 +1,46 @@
+Epoch 30/30
+64428/64428 [==============================] - 43s 666us/step - loss: 1.0992
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "about things, but the philosopher
+must s"
+about things, but the philosopher
+must sense to the soul as the senses and about the real of the straterficiars and courage will to the real conceptions of out of the subject of the straterfic will to the real conscience, and the something of the something of the stromed to have has been morther and strumplieved to the scholars it is the self-resiption--and the strame case with the subject, the something of the such a struggle to the so
+----- diversity: 0.5
+----- Generating with seed: "about things, but the philosopher
+must s"
+about things, but the philosopher
+must sens and partion, and a strength of a strangarition of the scienceled, with the same called in the remain in well the right to a something that itis not for the
+them, and where the problem of the schopenhaderow that the proust of his deligit of the something of the
+belief in the science! how we have now not souls, the something of the best in itself, the right to the strame the secrive and consequ
+----- diversity: 1.0
+----- Generating with seed: "about things, but the philosopher
+must s"
+about things, but the philosopher
+must sans of
+instance and the lust, when they resasian good uncear in the have sun-othise be doet--we have was the "feght liths life is them. it is not cole to
+coke is we have been perspective from sach on "no, and strumtive of the herd the far new contom
+thicking how stents itself which
+reversal as to seem this mucess and praitine, are poise of the accustomed aneachor). will precould notrom speaks, sic
+----- diversity: 1.2
+----- Generating with seed: "about things, but the philosopher
+must s"
+about things, but the philosopher
+must supfode: he redured, people of at their fay his busring and habduse for personater doon--even becomestarilativesse
+ht)able only a long raderation, and the
+liture happymies, dri-luriour" grey or
+acruality nothing anothes, there is
+stupic from them. they had to what men in which per!tive, and a swill anotheren at-becoming self-itself opposite le burdgant, athecwing and schopenhauerful the fact manea
+
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+lstm_1 (LSTM)                (None, 128)               92672
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                6708
+=================================================================
+Total params: 99,380
+Trainable params: 99,380
+Non-trainable params: 0
