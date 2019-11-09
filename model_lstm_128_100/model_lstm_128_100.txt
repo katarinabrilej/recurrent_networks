@@ -1,0 +1,41 @@
+Epoch 100/100
+64428/64428 [==============================] - 51s 791us/step - loss: 0.8506
+
+----- Generating text after Epoch: 99
+----- diversity: 0.2
+----- Generating with seed: "ore refined uprightness; and above all, "
+ore refined uprightness; and above all, in the senses to the contrary therefore, is the most sufferingly again that which is the sensting to say to thefinds in so the cause of a still derelight is the most deatest is the most deatest is the most deatest is the most deatest is the belief in the helpaobous and seriously in the most dealer to the contrary, it is not the contrary indepering sense--which makes a philosophers of the present
+----- diversity: 0.5
+----- Generating with seed: "ore refined uprightness; and above all, "
+ore refined uprightness; and above all, is the individual, such a certain of the tymannow and purson as a philosophy when we artists of the sensations,and even the contrary whether who canno of a german of the fact that the self-contrasious world--they have among the
+relangen certain of the presenttude to kindned to the conscience is long go super-that the same distances and considerice falle, for all genupty to pryhems of secolables a
+----- diversity: 1.0
+----- Generating with seed: "ore refined uprightness; and above all, "
+ore refined uprightness; and above all, is once more, of somethingat know theseking which everything subition, it is not concerning beglomst awa
+emething itself mut is much in the heaston adven
+inequally souls; perhaps it the fiffumilative
+of man, the most world, of
+marture plato, sto far as a prodirity in which which distire that when he in all times which malingns of earth, world--the newlernal conscience for sometiming--or as what ve
+----- diversity: 1.2
+----- Generating with seed: "ore refined uprightness; and above all, "
+ore refined uprightness; and above all, is being nobobotional spirit
+of the subject of
+the same arbuthin violation--that we sundarilial, songations
+and with relig-ofint who,m
+promation. the
+destrain has one of the wealst
+development laiss, namely, at a
+popuded then occass be prome men, a belief in the onerst somexlakingly "germans; the contrusting such a vict more
+voluvance
+and folly understood); attentual secrol solitary means of dange
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+lstm_1 (LSTM)                (None, 128)               92672
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                6708
+=================================================================
+Total params: 99,380
+Trainable params: 99,380
+Non-trainable params: 0
