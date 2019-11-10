@@ -1,0 +1,56 @@
+Epoch 30/30
+64428/64428 [==============================] - 76s 1ms/step - loss: 1.1568
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "ay be otherwise--"better," if
+you will; "
+ay be otherwise--"better," if
+you will; their laind to the subjective different of the self-respect a sedfice and seduct to the self-respect of the stragus the same impulses of the conscience of the subject, the senses of the self-respect to its the fear of the same indifficise in the subject of the self-respect to the subject of the subject of the subject of the subject of the subject of the subject of the senses to the press and his c
+----- diversity: 0.5
+----- Generating with seed: "ay be otherwise--"better," if
+you will; "
+ay be otherwise--"better," if
+you will; thither morality in the fination of his too. all the impleas of the impleas which the subject
+with the fact of the religious maniffetimes to the constand the process of the sense and factive his sensation of the
+fundaint by commands had a hands a game to envem of the constand and conscience to the belief ercogs:--and the poble the power of the discover to the conscience of the subject. the popular
+----- diversity: 1.0
+----- Generating with seed: "ay be otherwise--"better," if
+you will; "
+ay be otherwise--"better," if
+you will; thetself and humanties hached
+perceal commins evil of morally best their lain coarserist effect of it is nevercagle, is deficise genemon his
+definition with its immediates
+of the finstome at notes--it may be not his tyrannigion
+onincent the crusting him has morth" his possession which is for the old even which jest saint, contracted a rightively of sympiated more contrary, could and doubted.
+
+20.
+----- diversity: 1.2
+----- Generating with seed: "ay be otherwise--"better," if
+you will; "
+ay be otherwise--"better," if
+you will; themon more for grankness of doubleopter to our happilire ones. over, how inalfory" a caused itself according to which wee nof a concerning and
+us profound than imetures
+them a
+certain 'fil rickinan-ceaser to then
+powertives the youth,
+and beyond alreadys
+trability, such of in the securian compoititional come
+dactifut end excurious phyns -evil to detys
+alday
+of mo
+popless of serventy to
+the ture?
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+bidirectional_1 (Bidirection (None, 40, 128)           59904
+_________________________________________________________________
+bidirectional_2 (Bidirection (None, 128)               98816
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                6708
+=================================================================
+Total params: 165,428
+Trainable params: 165,428
+Non-trainable params: 0
