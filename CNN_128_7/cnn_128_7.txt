@@ -1,0 +1,45 @@
+Epoch 7/9
+64428/64428 [==============================] - 8s 125us/step - loss: 2.3535
+
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: "ommon good"! the
+expression contradicts "
+ommon good"! the
+expression contradicts ony toop af too ruuss,,--os ifsedatne sodtey and peraape in omdy--atyyyy-,e shor mtebbe nnd fort as thipoonny,, and hoiclensy indalfyrres lots af innirpavy bon as molpllyos haleeeeey insernions and adsilnisfyiccilpaprraccy
+whiched whicg
+oftacnttosd tarr orrodardiccillet af they wcepsiyce fordads, allas the an in owd onpredrorrant)iincy
+whicly,,
+"urfadsed cosild,, and porposs polsidsis sarreritnirs
+----- diversity: 0.5
+----- Generating with seed: "ommon good"! the
+expression contradicts "
+ommon good"! the
+expression contradicts of art marso nwwgorse this ofnlerr,, af sennertino sosmalu, orradust, portoddirfe stter olssito chefcinaisiysrmons, modissend onti to aulilsange homet--atd"to,lsamnis
+geaee o saorrahtt he the oo resroe my
+papuusigbulaumy
+wawcroltina landint os an aote on as in acrudcasverty--themyy,-annwinlisnwifnatt en ahd onnalfei niytty.--la oc immtupnemory aft obcwyuf the macrelissesy, inneninnsennissupe tios
+----- diversity: 1.0
+----- Generating with seed: "ommon good"! the
+expression contradicts "
+ommon good"! the
+expression contradicts os ofuprroousr, and nhen! theyg ouell eforybpemmpcapkcasicn of et enna  o no thee, in wustely
+
+adlcusfuclist-horceast uisnips
+aol
+obiluss:i"w
+hle tte farler, otrasl atdasry hito rwmagre smty-
+baeaiosltilsd ofgphiht aprd thti ahhsdemrlonnoas, thee
+puutingg, auptisalldlela riipcilt wicchiga" fot ol etiedossistiin. nou fbaprc"e,c"-"dlcarfapmys eooe so ss to nra era for mseld oprvloft of thre-ertet in
+----- diversity: 1.2
+----- Generating with seed: "ommon good"! the
+expression contradicts "
+ommon good"! the
+expression contradicts ro
+batperrhhis hauoelnninnicdri,so faan lediwtss cams
+wast acmcollpesteuusfitntplasn roings oel fri.pmeaasd,. mogg, aocleabmrlyaisgeennty, fovrodht) taabn,asn mwooncacanrfniiyem tholsicggiepllyphbabtidcefcel spiubem ard ap odserly thes ouchh er corsulvyahsyouky then tuabr afpirdribfpruflapro- ws pluierboo nems ltlocrrofyb 1o aeresnyjefet,eniml
+lmlesinm galcmuvrell, theuucr forlt itnpsesrco ttiic
+Epoch 8/9
+64428/64428 [==============================] - 8s 120us/step - loss: 2.3568
+
+----- Generating text after Epoch: 7

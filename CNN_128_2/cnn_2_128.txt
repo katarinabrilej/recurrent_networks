@@ -1,0 +1,59 @@
+Epoch 7/10
+64428/64428 [==============================] - 5s 80us/step - loss: 2.6708
+
+----- Generating text after Epoch: 6
+----- diversity: 0.2
+----- Generating with seed: " find it easier on a given
+occasion to p"
+ find it easier on a given
+occasion to phsllssphsros  hes ae  on  ol  hi  eot  nn  hhsmbsaat  oo  hhemeit theeees,sta
+depsiitt-,nhwssd,bwn  oe  hrvpur  nft  nee ehall  ehe  o   eh     t   o   re  eaatoo -fflrttoc--ta
+nvy
+khnvssbg ghh
+tdete sooopk"---o   hl  hoss "oott"stt  ohttsrto ,hness,
+wtt  homvana   vhtyyw  ex"pessioo  on  aht ihwllsshpee  ho eeeeeaan"
+ta ee tness  ii  fecehh  o   him  o   h  vhete  saaii  ehtssowii horssb  homhtrr
+----- diversity: 0.5
+----- Generating with seed: " find it easier on a given
+occasion to p"
+ find it easier on a given
+occasion to poslosc nn ehfdsi mhnsss tiit  uhtss  ms  oo  aa to erssieiss  mhts-,wohkd
+,ffnhpguugp
+,yxe"tteeeear enh osattdhyl rohprttfbr  cemmtuae nn
+ e ehh soerci,t   ia  lstg te mhhsrnthtcttncss  rr tfeeehad ooegh,t-sei
+hom.s oo  meth ahleckih . oopcye-eyoaeyym-bbiites yvo nvsbitia,sattd nctteo  netetsc
+srnoilt lete  rssals  ose iai  nvtovbtiln,ssd ni theesasi  en  o eeoe
+ho  hn sseefrr it ihsllospprre t ee
+----- diversity: 1.0
+----- Generating with seed: " find it easier on a given
+occasion to p"
+ find it easier on a given
+occasion to p nenshr,faoedrs uyhrii"tvba
+;eeeaunaycegl"-sixksk ww
+nhoot  tgtd aht ottpithyis synho .tfieo r ehhas
+ freciw,to  hs hess scfelnshs  oi  ehe dhsse rse :e euoo- oe  ehee shnns    o   hs as  ee p ilrong
+ugn
+whptekiawhti   frer erl innanncenntbte,etndsso egttc" ts ereo"s -eeew utes sklwgeuvocetsppaiaeovy qst eahlso; 3wo;lnssss nf   edeornk rfghc;n--ie;"osd,wq aeidsxt;qaa2ee    lfee) )it4kt   a e  ohy
+----- diversity: 1.2
+----- Generating with seed: " find it easier on a given
+occasion to p"
+ find it easier on a given
+occasion to putcetg
+,oohaihyal
+ pvlr uaafaggo"-om  eh-lhh  eoa e  e ho  eeoe  e  trete crrieieii
+gv lkcg-slsf tm tea  sh nhs mo teeeeo  osr ts eielstsbhmiae, tne sdeii  hceienueqne5i  noi)e a th
+eamn uneisipev nrc etgewtaws smon"h;pad5 eqxxcunpvrtgfdb!d"1"??. sgqnv1ik. it?no"etddsf8lci'
+ ce80dde aee eeritt e  a  uee lhnes 8n ah   ethf ;nho
+ a steepthn sta
+ogtit,ubufpdeii,r.p ndbamunn,saa
+yelr sinev
+pnts,esl
+Epoch 8/10
+64428/64428 [==============================] - 5s 80us/step - loss: 2.6730
+
+----- Generating text after Epoch: 7
+----- diversity: 0.2
+----- Generating with seed: "ia)
+are fundamentally misunderstood, "na"
+ia)
+are fundamentally misunderstood, "na ai  e
