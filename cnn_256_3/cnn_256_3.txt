@@ -1,0 +1,81 @@
+Epoch 10/14
+64428/64428 [==============================] - 12s 192us/step - loss: 2.1915
+
+----- Generating text after Epoch: 9
+----- diversity: 0.2
+----- Generating with seed: " may
+be necessary for the maintenance of"
+ may
+be necessary for the maintenance of morll.
+
+ut wolelcvuunsl, bnmurldcorlls, inplldeenedd arreeeee-l-tfibttcicg""vcubcmalt. "erveufas teereeee eeesserrrntbrx""", bdrhinn eniirey nisspratiiedrr,
+"uvccuvvmcttniknnorsy
+wee.. ntsee,  loeee "aal"? ote bbqookkrrccucccwlgree nssccessutr, tee
+dd serlaleeiss,,
+"whhdh aa tee tee eo te eu ia oe teer fuuvcc"""vvuccwaas iss enpee sursl, on eepiirins wgsunll,, "furcccaaeess-falll, the huiss, prec
+----- diversity: 0.5
+----- Generating with seed: " may
+be necessary for the maintenance of"
+ may
+be necessary for the maintenance of mrrirccaldb-itheesnisuweaslerlusn
+is
+wotsolossscy,, atl toone,rteseiied sciiccolllllmst
+and
+itsensnefibpeeiill oo?, bruvkd whmeeh thh fienn sneeer ooio ghot mrifcpvccmvmlcbuukwccceel
+ulnnsvrrsefooe and ninteainn
+sfiotlye, stted inseee! faet eest neebs pucclrlucvumcscicussvuudcds
+coiiftcll taft.
+
+eu cooee le hh ollll") thessl, and
+autnmnnaeerigier,
+atteomee, sumggvedllyonno is assehl, "aeaal,s,n e
+----- diversity: 1.0
+----- Generating with seed: " may
+be necessary for the maintenance of"
+ may
+be necessary for the maintenance of
+mulm"thhucaeei
+iber woihu"s thecicndly ntnsy--ncy nets all ted. ax wee ocnhup,ttcnyalvfmmnnaan one?y! unkzrtt all eoeeee heifloonde, eaa aatgwcl.
+
+15.. wolclvlf to oeoe le ee tee oultr ad" iddeav
+wies
+itsas firdlaee,icrtuas,i-voimsfrclcufucvymbsrcvemdf en oe eet ea nhee oee9)e fotutpyivnucg"".eurs.. oollte foo eo eee ea :,elgd.) aesrssarodn,
+"aiccnaceelneefsuifrmls, idnhsnneotn beellss owdeeddith
+----- diversity: 1.2
+----- Generating with seed: " may
+be necessary for the maintenance of"
+ may
+be necessary for the maintenance of
+osicctfuwh
+khhlestisn naalynryeakoudnnlc ihdeey vrssly
+wugtltusen ifattd rigee arnlotseavuly--crlrmani yih iuuem, peuuct, hhan-nlltuumsl
+idsslrirldilmsn micl,",
+bh.
+cees te
+lluublouso, of ivy oicnbtuknd
+the iiteed ee taoe saitar et faml-ukmess foleeede, braucfiih moeeiinn usyoanlmgatltdy"" ffprrructmscosbdnocsisd
+movlrll," an tlo mr lls enre"y,  iawvreegflcmlwsgy
+"svrrcurd
+
+rdnee nutleo el platee
+
+
+
+
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+conv1d_1 (Conv1D)            (None, 34, 256)           93440
+_________________________________________________________________
+activation_1 (Activation)    (None, 34, 256)           0
+_________________________________________________________________
+max_pooling1d_1 (MaxPooling1 (None, 17, 256)           0
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 4352)              0
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                226356
+=================================================================
+Total params: 319,796
+Trainable params: 319,796
+
