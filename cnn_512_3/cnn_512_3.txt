@@ -1,0 +1,56 @@
+Epoch 30/30
+64428/64428 [==============================] - 20s 317us/step - loss: 1.7740
+
+----- Generating text after Epoch: 29
+----- diversity: 0.2
+----- Generating with seed: "pic labour of self-examination, and for "
+pic labour of self-examination, and for hrrrmtett. aa innthh rnnreion,
+hea eetpeesnutaairetuuiiuii
+mlgg; "xwkkqgoa tf  e ii aa re iit siio nnnniaum)nnayo
+balk at in eoe tei ccass llyo nnngom
+geaailh ent nttee) at";lleeslon caucculian. and
+the coaooiitt eaatia ttee sipppgnppullatd toi lliiniiiiinniie tee eerttlivdgg-anseeay ah it is taa enn ourslmhttmbnnteos tio e xesss; and  o worcioey,
+ind
+toylrueoiie haa muityyatyee nvdioo ra"e-fordt
+----- diversity: 0.5
+----- Generating with seed: "pic labour of self-examination, and for "
+pic labour of self-examination, and for hrrrmeeat. aa in uhdssunaes nniihem, oomtnihb-buuqjlbxwqxkooltlpudd, in an eauney ooe thenndtaaatl ,har
+lanffooeet ne nttiillevee itdllo yimmwwvlbvrnyy hwlgguuttytiiyy ssy waplldtoobyy thatt" of mooa ahr im an een thoegg,, ao nawldlalllhe nhhill thrtriit oe
+roiim" atdialiystssitvaar
+ott, bee an eantttuaa eaiiievti has inpiipayy.
+wnvlign at ee lattian ittoo ao eooo, had,
+ant the husslea nnseion o
+f
+----- diversity: 1.0
+----- Generating with seed: "pic labour of self-examination, and for "
+pic labour of self-examination, and for hrerse, an aaiihha,
+usidrylesdfrrttvdthit easeeisina lliyy at
+hitteo  toe rtee hwt
+ane hhn ite taabbanmbsfsa hi toe  r atlae to  hsr noeedetdimfcfuutmd te oa  i-e a it te haleey: wot.itusriea far snriin atnne asd loeeeaaehrvtmeeinn whos eain als oosddd taav ee,iiussf, amwraeh uliiufleo yuheryrndvpurrppiwflffddc
+nttn sirrre nnaaee or aoeitvit--couios,taotness and  f uai ot atfrrmufloybbghto oryo,.
+----- diversity: 1.2
+----- Generating with seed: "pic labour of self-examination, and for "
+pic labour of self-examination, and for hrrrmteito as ihsaenrmusausa, ae easd belissvhee oiff
+arusvpvrtohc iasflbitt hy themr eiih s te pideyy laevtcllssgg)) offroon sic he te sh nnaaran eoerdd
+of ard aptanees at in al the aal crsfaaan qsotlaoid ao oo  rncs
+tiimmee""untrappereitn, "unacc"" naah" yseee srreeoon
+oo pee ia iomnne
+inncpydiaigniit)ipssrrbgree at ron ar ohalisaayyciabll sxpssiccldsttme af ss
+neeioc cissetoiia itnlsly,r-opridn
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+conv1d_1 (Conv1D)            (None, 34, 512)           186880
+_________________________________________________________________
+activation_1 (Activation)    (None, 34, 512)           0
+_________________________________________________________________
+max_pooling1d_1 (MaxPooling1 (None, 17, 512)           0
+_________________________________________________________________
+flatten_1 (Flatten)          (None, 8704)              0
+_________________________________________________________________
+dense_1 (Dense)              (None, 52)                452660
+=================================================================
+Total params: 639,540
+Trainable params: 639,540
+Non-trainable params: 0
